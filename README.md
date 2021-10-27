@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Devin's github stats](https://github-readme-stats.vercel.app/api?username=tangwan)](https://github.com/tangwan/github-readme-stats)
+![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangwan&show_icons=true&theme=radical)
+
